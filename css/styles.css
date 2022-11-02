@@ -1,0 +1,17 @@
+#foto1{
+    background-image: url(../imagenes/quemasConvustilbes.jpg);
+    
+}
+
+
+#foto2{
+    background-image: url(../imagenes/petrolera.jpg);
+    width: auto;
+    height: auto;
+}
+
+#foto3{
+    background: url(../imagenes/deforestacion.jpg) no-repeat;
+    background-size: cover;
+    color: white;
+}
